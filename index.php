@@ -4,7 +4,7 @@
 // You can get a Steam API Key by visiting http://steamcommunity.com/dev/apikey
 // Don't worry about the web address, it won't have any effect so just type in any web site
 // Once you have your steam API Key simply paste the key below. (Make sure the quotation marks are still there or else it won't work)
-$SteamAPIKey = "INSERT YOUR STEAM API KEY HERE";
+$SteamAPIKey = "EE16084A84C5290C47E926C065BE6AA1";
 
 
 // Don't edit any of the PHP stuff here or else you may break the script
